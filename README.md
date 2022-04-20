@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'll be working on some things here in the future 😄
+SoC will be helping me with this 🤞
 
 <!--
 **ConorG1247/ConorG1247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
