@@ -1,7 +1,7 @@
-### Hi there 👋
-I'll be working on some things here in the future 😄
-
-SoC will be helping me with this 🤞
+### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
+- 🔭 I’m currently working on a daily task tracker (LA) using React, CSS, Express
+- 🌱 I’m currently learning JavaScript, CSS, HTML and *Python(soon)*
+- 📫 How to reach me: Conorgoddard1247@gmail.com
 
 <!--
 **ConorG1247/ConorG1247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
