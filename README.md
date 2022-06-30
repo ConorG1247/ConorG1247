@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
-- 🔭 I’m working on a daily task tracker (LA) using React, CSS and Express
+- 🔭 I’m working on a personal image hosting website using React, CSS, Express and MongoDB
 - 🌱 At the moment I'm learning JavaScript, CSS, HTML *and Python(soon)*
 - 📫 How to reach me: Conorgoddard1247@gmail.com
 
