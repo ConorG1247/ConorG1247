@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
-- 🔭 I’m working on a personal image hosting website using MongoDB, Express, React and Node.js as well as Cloudinary.
+- 🔭 I’m working on a personal image hosting website using MongoDB, Express, React and Node.js.
 - 🌱 At the moment I'm learning JavaScript, CSS, HTML *and Python (soon)*
 - 📫 How to reach me: Conorgoddard1247@gmail.com
 
