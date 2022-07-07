@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
-- 🔭 I’m working on a personal image hosting website using MongoDB, Express, React and Node.js.
+- 🔭 I’m working on a movie and anime API project using MongoDB, Express, React and Node.js.
 - 🌱 At the moment I'm learning JavaScript, CSS, HTML *and Python (soon)*
 - 📫 How to reach me: Conorgoddard1247@gmail.com
 
+- ✔️ Completed projects: Simple personal image hosting app
 <!--
 **ConorG1247/ConorG1247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
