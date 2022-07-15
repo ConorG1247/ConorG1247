@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
-- 🔭 I’m working on a movie and anime API project using MongoDB, Express, React and Node.js. https://movie-api-frontend.netlify.app/
+- 🔭 I’m working on a movie and anime API project using MongoDB, Express, React and Node.js. https://animovies.netlify.app/
 - 🌱 At the moment I'm learning JavaScript, CSS, HTML *and Python (soon)*
 - 📫 How to reach me: Conorgoddard1247@gmail.com
 
