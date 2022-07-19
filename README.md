@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Conor and I'm currently a School of Code bootcamper.
-🔭 
+
+🔭 Currently working on my portfolio website
 
 🌱 At the moment I'm learning JavaScript, CSS, HTML *and Python (soon)*
 
