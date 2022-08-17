@@ -14,6 +14,7 @@
 </a>
 ![Conor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConorG1247&show_icons=true&theme=dark&hide=stars,issues&icon_color=cyan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConorG1247&theme=dark&layout=compact)](https://github.com/ConorG1247/github-readme-stats)
+
 ![img](https://www.codewars.com/users/ConorG1247/badges/large)
 
 📫 You can also reach me through email: Conorgoddard1247@gmail.com
