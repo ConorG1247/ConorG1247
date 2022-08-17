@@ -12,5 +12,5 @@
 - Movie and anime API project using MongoDB, Express, React and Node.js. https://animovies.netlify.app/
 
 ![img](https://puu.sh/JgCGE/c78e914cbc.png)
-<img src = "https://puu.sh/JgCLU/99d7472969.png" width /> <img src = "https://puu.sh/JgCNu/62022165dd.png"  />
+<img src = "https://puu.sh/JgCOu/f89e98f720.png" width /> <img src = "https://puu.sh/JgCOH/60dc1acc02.png"  />
 ![img](https://puu.sh/JgCGS/a2b99ca275.png)
