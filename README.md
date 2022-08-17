@@ -1,5 +1,5 @@
 ![img](https://puu.sh/JgCGE/c78e914cbc.png)
-<a href="https://www.linkedin.com/in/conor-goddard/ https://conor-goddard.netlify.app/">
+<a href="https://www.linkedin.com/in/conor-goddard/">
 <img src="https://puu.sh/JgD27/cb0aa0812c.png"  /> 
 </a>
 <a href="https://conor-goddard.netlify.app/">
