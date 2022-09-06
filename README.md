@@ -17,4 +17,4 @@
 
 ![img](https://www.codewars.com/users/ConorG1247/badges/large)
 
-📫 You can also reach me through email: Conorgoddard1247@gmail.com
+📫 You can also reach me through email: Conorgoddard1247@gmail.com 
