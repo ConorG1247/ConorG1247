@@ -1,6 +1,6 @@
 ![img](https://puu.sh/JgCGE/c78e914cbc.png)
 <a href="https://www.linkedin.com/in/conor-goddard/">
-<img src="https://puu.sh/JgD27/cb0aa0812c.png"  /> 
+<img src="https://puu.sh/JrNWM/fb012c13a8.png"  /> 
 </a>
 <a href="https://www.conorg.me/"> 
 <img src="https://puu.sh/JgD25/7bf5655f64.png"  />
